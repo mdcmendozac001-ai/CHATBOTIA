@@ -1,0 +1,4 @@
+tutor-ia/
+── tutor_examen.py          (el código del chatbot)
+├── requirements.txt         (dependencias)
+└── README.md               (opcional, información)
